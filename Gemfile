@@ -1,0 +1,5 @@
+source 'http://rubygems.org'
+gem 'pry-byebug'
+gem 'rest-client'
+gem 'rspec'
+gem 'webmock'
